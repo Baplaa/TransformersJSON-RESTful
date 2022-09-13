@@ -7,10 +7,10 @@ Web Dev [ACIT 2520] Academic Project
 
 
 Dependencies: 
-> npm install express
-> npm install mongodb
-> npm install mongoose
-> npm install morgan
+- npm install express
+- npm install mongodb
+- npm install mongoose
+- npm install morgan
 
 
 ===========================================================================
